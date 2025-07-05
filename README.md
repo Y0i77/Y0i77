@@ -21,18 +21,12 @@
       <h2 align="center">My Skills</h2>
     </td>
     <td>
-      <p align="center"> 
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="React" width="50" height="50"/> 
-</a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> 
+     <p align="center">
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="C#" width="50" height="50"/>
   </a>
-    <a href="https://www.typescriptlang.org/branding/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="postgresql" width="50" height="50"/> 
-  </a>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" alt="postgresql" width="50" height="50"/> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="50" height="50"/>
   </a>
   <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql server" width="50" height="50"/> 
